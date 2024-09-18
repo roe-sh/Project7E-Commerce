@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gj9dMOKxYDk=",
+  "dgSpecHash": "dSpVLlOegEo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Smart_Supplies-main\\project7\\project7.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\Project7E-Commerce\\project7\\project7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
